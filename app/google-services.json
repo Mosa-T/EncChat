@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241645263422",
+    "firebase_url": "https://encchat-9a0ed.firebaseio.com",
+    "project_id": "encchat-9a0ed",
+    "storage_bucket": "encchat-9a0ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241645263422:android:52c28b7eaaf7fc95",
+        "android_client_info": {
+          "package_name": "com.example.encchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241645263422-r41mutjl2gms2ulaba4dv1mdgrfe7oso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHKuKN7Tzz2LADBteoDByhfhHeTeXF8zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241645263422-r41mutjl2gms2ulaba4dv1mdgrfe7oso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

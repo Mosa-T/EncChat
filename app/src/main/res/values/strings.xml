@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EncChat</string>
+    <string name="version">v 1.0</string>
+    <string name="saveLabel">Save</string>
+</resources>
